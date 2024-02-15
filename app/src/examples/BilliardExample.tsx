@@ -5,7 +5,7 @@ import Animated, {
   useFrameCallback,
   useSharedValue,
   withTiming,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import { Box2d, b2Shape, b2World } from 'react-native-box2d';
 import {
   Gesture,

@@ -9,7 +9,7 @@ import Animated, {
   useFrameCallback,
   useScrollViewOffset,
   useSharedValue,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import { Button, Text, View, StyleSheet } from 'react-native';
 import {
   Gesture,

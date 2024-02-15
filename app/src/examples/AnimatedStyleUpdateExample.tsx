@@ -3,7 +3,7 @@ import Animated, {
   withTiming,
   useAnimatedStyle,
   Easing,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import { View, Button, StyleSheet } from 'react-native';
 import React from 'react';
 

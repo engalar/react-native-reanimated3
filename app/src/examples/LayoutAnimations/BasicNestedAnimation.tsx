@@ -6,7 +6,7 @@ import Animated, {
   useSharedValue,
   withRepeat,
   withTiming,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import { Button, StyleSheet, View } from 'react-native';
 import React, { useEffect } from 'react';
 

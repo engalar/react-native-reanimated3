@@ -8,7 +8,7 @@ import {
 import Animated, {
   SharedTransition,
   SharedTransitionType,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 
 const Stack = createNativeStackNavigator();
 const transition = SharedTransition.defaultTransitionType(

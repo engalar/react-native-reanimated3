@@ -4,7 +4,7 @@ import Animated, {
   useAnimatedRef,
   useAnimatedStyle,
   useScrollViewOffset,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import { SafeAreaView, StyleSheet, Text } from 'react-native';
 
 import React from 'react';

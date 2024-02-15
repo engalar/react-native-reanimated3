@@ -15,7 +15,7 @@ import Animated, {
   FadeInDown,
   FadeInLeft,
   FadeInUp,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 
 const AnimatedPressable = Animated.createAnimatedComponent(Pressable);
 

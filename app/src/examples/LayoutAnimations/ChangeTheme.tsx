@@ -8,7 +8,7 @@ import Animated, {
   RotateOutUpLeft,
   SlideInRight,
   SlideOutLeft,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 
 const digits = [0, 1];
 

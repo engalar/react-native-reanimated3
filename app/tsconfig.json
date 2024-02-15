@@ -3,7 +3,7 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "react-native-reanimated": ["../"],
+      "react-native-reanimated3": ["../"],
       "react": ["./node_modules/@types/react"]
     }
   },

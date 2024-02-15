@@ -5,7 +5,7 @@ import Animated, {
   useAnimatedStyle,
   useSharedValue,
   withTiming,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import { Button, Dimensions, StyleSheet, View } from 'react-native';
 import React, { useContext, useMemo } from 'react';
 

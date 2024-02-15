@@ -7,7 +7,7 @@ import Animated, {
   Extrapolation,
   withDelay,
   withTiming,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import {
   View,
   Dimensions,

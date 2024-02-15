@@ -5,7 +5,7 @@ import {
   createNativeStackNavigator,
   NativeStackScreenProps,
 } from '@react-navigation/native-stack';
-import Animated from 'react-native-reanimated';
+import Animated from 'react-native-reanimated3';
 
 const Stack = createNativeStackNavigator();
 

@@ -13,7 +13,7 @@ import {
   createNativeStackNavigator,
   NativeStackScreenProps,
 } from '@react-navigation/native-stack';
-import Animated from 'react-native-reanimated';
+import Animated from 'react-native-reanimated3';
 
 type Optional<T, K extends keyof T> = Pick<Partial<T>, K> & Omit<T, K>;
 

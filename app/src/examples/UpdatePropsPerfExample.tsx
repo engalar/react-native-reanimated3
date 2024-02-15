@@ -2,7 +2,7 @@ import Animated, {
   useAnimatedStyle,
   withRepeat,
   withTiming,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import { Animated as RNAnimated, View, StyleSheet } from 'react-native';
 import React, { useEffect, useRef } from 'react';
 

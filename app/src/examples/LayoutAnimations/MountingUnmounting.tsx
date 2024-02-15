@@ -7,7 +7,7 @@ import Animated, {
   SlideOutLeft,
   SlideOutRight,
   SlideOutUp,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import { Button, StyleSheet, Text, View } from 'react-native';
 import React, { useState } from 'react';
 

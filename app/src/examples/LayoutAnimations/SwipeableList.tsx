@@ -1,4 +1,4 @@
-import Animated, { Layout, ZoomOut } from 'react-native-reanimated';
+import Animated, { Layout, ZoomOut } from 'react-native-reanimated3';
 import { Button, StyleSheet, Text, View } from 'react-native';
 import React, { useState } from 'react';
 

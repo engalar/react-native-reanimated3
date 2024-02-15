@@ -2,7 +2,7 @@ import Animated, {
   useSharedValue,
   useAnimatedStyle,
   withSpring,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import { StyleSheet, TextInput, Text, TouchableOpacity } from 'react-native';
 import { View } from 'react-native';
 import React, { Dispatch, SetStateAction, useState } from 'react';

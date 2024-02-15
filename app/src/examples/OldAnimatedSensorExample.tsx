@@ -3,7 +3,7 @@ import Animated, {
   useAnimatedStyle,
   useAnimatedSensor,
   SensorType,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import { View, Button, StyleSheet } from 'react-native';
 
 export default function OldAnimatedSensorExample() {

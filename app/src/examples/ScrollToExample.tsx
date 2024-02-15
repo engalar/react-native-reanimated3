@@ -2,7 +2,7 @@ import Animated, {
   runOnUI,
   scrollTo,
   useAnimatedRef,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import { Button, StyleSheet, Switch, Text, View } from 'react-native';
 
 import React from 'react';

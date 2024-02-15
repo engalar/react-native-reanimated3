@@ -2,7 +2,7 @@ import Animated, {
   useSharedValue,
   useAnimatedStyle,
   withSpring,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import { SafeAreaView, Button, View, StyleSheet, Platform } from 'react-native';
 import React, { useRef } from 'react';
 

@@ -5,7 +5,7 @@ import Animated, {
   useSharedValue,
   withDelay,
   withTiming,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import {
   StyleSheet,
   Text,

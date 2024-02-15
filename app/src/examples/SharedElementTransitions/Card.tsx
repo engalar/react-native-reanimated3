@@ -5,7 +5,7 @@ import {
   NativeStackNavigationProp,
   NativeStackScreenProps,
 } from '@react-navigation/native-stack';
-import Animated from 'react-native-reanimated';
+import Animated from 'react-native-reanimated3';
 
 type ParamList = {
   Screen1?: object;

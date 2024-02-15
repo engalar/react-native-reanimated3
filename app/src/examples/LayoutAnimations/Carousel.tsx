@@ -1,4 +1,4 @@
-import Animated, { SlideInLeft, SlideOutRight } from 'react-native-reanimated';
+import Animated, { SlideInLeft, SlideOutRight } from 'react-native-reanimated3';
 import {
   Button,
   Image,

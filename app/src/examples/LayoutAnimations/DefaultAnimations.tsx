@@ -77,7 +77,7 @@ import Animated, {
   ZoomOutRight,
   ZoomOutRotate,
   ZoomOutUp,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import React, { useState } from 'react';
 import {
   ScrollView,

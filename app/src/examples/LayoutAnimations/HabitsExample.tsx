@@ -8,7 +8,7 @@ import Animated, {
   BounceIn,
   AnimatedProps,
   FadeOut,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import { FontAwesomeIcon } from '@fortawesome/react-native-fontawesome';
 import { faCheck, faClose } from '@fortawesome/free-solid-svg-icons';
 

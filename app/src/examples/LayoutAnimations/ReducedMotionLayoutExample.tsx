@@ -2,7 +2,7 @@ import Animated, {
   PinwheelIn,
   PinwheelOut,
   ReduceMotion,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import { Button, StyleSheet, View, Text } from 'react-native';
 
 import React from 'react';

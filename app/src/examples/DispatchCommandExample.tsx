@@ -2,7 +2,7 @@ import Animated, {
   dispatchCommand,
   runOnUI,
   useAnimatedRef,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import { Button, StyleSheet, TextInput, View } from 'react-native';
 
 import React from 'react';

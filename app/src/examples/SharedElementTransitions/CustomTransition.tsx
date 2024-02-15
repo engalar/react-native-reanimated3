@@ -9,7 +9,7 @@ import Animated, {
   SharedTransition,
   withSpring,
   SharedTransitionType,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 
 const Stack = createNativeStackNavigator();
 

@@ -8,7 +8,7 @@ import Animated, {
   withTiming,
   Easing,
   runOnJS,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import {
   PanGestureHandler,
   TouchableOpacity,

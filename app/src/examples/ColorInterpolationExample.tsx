@@ -4,7 +4,7 @@ import Animated, {
   withTiming,
   interpolateColor,
   isColor,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import {
   StyleSheet,
   TextInput,

@@ -4,7 +4,7 @@ import Animated, {
   useAnimatedStyle,
   interpolate,
   Extrapolation,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 
 const { width } = Dimensions.get('window');
 const size = 50;

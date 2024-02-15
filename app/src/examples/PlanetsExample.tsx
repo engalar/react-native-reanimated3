@@ -4,7 +4,7 @@ import Animated, {
   useSharedValue,
   withRepeat,
   withTiming,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import { Circle, Ellipse, Path, Svg } from 'react-native-svg';
 import { ColorValue, StyleSheet, View } from 'react-native';
 import React, { useEffect, useState } from 'react';

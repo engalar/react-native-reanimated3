@@ -7,7 +7,7 @@ import Animated, {
   useDerivedValue,
   useAnimatedProps,
   interpolate,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import { Gesture, GestureDetector } from 'react-native-gesture-handler';
 
 const AnimatedPath = Animated.createAnimatedComponent(Path);

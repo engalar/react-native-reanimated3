@@ -7,7 +7,7 @@ import Animated, {
   useAnimatedStyle,
   useSharedValue,
   withSpring,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 
 const OFFSET_X = 100; // in px
 const OFFSET_Y = 100; // in px

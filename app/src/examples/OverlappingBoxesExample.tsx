@@ -1,7 +1,7 @@
 import Animated, {
   useAnimatedStyle,
   useSharedValue,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import { Button, StyleSheet, View } from 'react-native';
 
 import React from 'react';

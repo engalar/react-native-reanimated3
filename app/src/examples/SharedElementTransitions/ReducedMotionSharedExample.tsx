@@ -4,7 +4,7 @@ import Animated, {
   ReduceMotion,
   SharedTransition,
   withSpring,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import { Button, StyleSheet, View } from 'react-native';
 import {
   NativeStackScreenProps,

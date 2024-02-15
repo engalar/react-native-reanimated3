@@ -3,7 +3,7 @@ import Animated, {
   useDerivedValue,
   useSharedValue,
   withTiming,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import { Button, TextInput, StyleSheet, View } from 'react-native';
 
 import React from 'react';

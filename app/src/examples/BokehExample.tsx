@@ -4,7 +4,7 @@ import Animated, {
   useReducedMotion,
   useSharedValue,
   withTiming,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import { Dimensions, StyleSheet, View } from 'react-native';
 import React, { useState } from 'react';
 

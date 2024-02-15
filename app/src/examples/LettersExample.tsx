@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import { Platform, StyleSheet, View } from 'react-native';
-import Animated, { FadeIn, FadeOut, Layout } from 'react-native-reanimated';
+import Animated, { FadeIn, FadeOut, Layout } from 'react-native-reanimated3';
 
 function splitLetters(text: string) {
   const map = new Map();

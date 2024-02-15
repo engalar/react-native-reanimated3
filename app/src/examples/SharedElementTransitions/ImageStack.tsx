@@ -11,7 +11,7 @@ import {
   Button,
   StyleSheet,
 } from 'react-native';
-import Animated from 'react-native-reanimated';
+import Animated from 'react-native-reanimated3';
 
 const florence = require('./assets/florence.jpg');
 const countryside = require('./assets/countryside.jpg');

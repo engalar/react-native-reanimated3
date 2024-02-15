@@ -4,7 +4,7 @@ import Animated, {
   useAnimatedSensor,
   SensorType,
   IOSReferenceFrame,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import { View, Button, StyleSheet, Text } from 'react-native';
 
 // euler angles are in order ZXY, z = yaw, x = pitch, y = roll

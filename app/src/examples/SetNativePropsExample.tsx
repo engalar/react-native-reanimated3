@@ -2,7 +2,7 @@ import Animated, {
   runOnJS,
   setNativeProps,
   useAnimatedRef,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import { Button, StyleSheet } from 'react-native';
 import {
   Gesture,

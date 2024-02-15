@@ -2,7 +2,7 @@ import Animated, {
   KeyboardState,
   useAnimatedKeyboard,
   useAnimatedStyle,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import {
   Button,
   Keyboard,

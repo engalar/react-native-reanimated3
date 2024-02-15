@@ -1,4 +1,4 @@
-import Animated, { useAnimatedScrollHandler } from 'react-native-reanimated';
+import Animated, { useAnimatedScrollHandler } from 'react-native-reanimated3';
 import { StyleSheet, Text } from 'react-native';
 
 import React from 'react';

@@ -6,7 +6,7 @@ import Animated, {
   useAnimatedProps,
   useSharedValue,
   withSpring,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 
 type SwitchProps = {
   y?: number;

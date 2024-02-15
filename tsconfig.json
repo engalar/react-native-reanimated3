@@ -14,7 +14,7 @@
     "strict": true,
     "forceConsistentCasingInFileNames": true,
     "paths": {
-      "react-native-reanimated": ["./src"]
+      "react-native-reanimated3": ["./src"]
     },
     "resolveJsonModule": true
   },

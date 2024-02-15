@@ -3,7 +3,7 @@ import Animated, {
   useSharedValue,
   withDelay,
   withSpring,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import { StyleSheet, View } from 'react-native';
 
 import React from 'react';

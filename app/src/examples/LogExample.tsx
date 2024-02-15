@@ -1,5 +1,5 @@
 import { Button, StyleSheet, Text, View } from 'react-native';
-import { runOnUI } from 'react-native-reanimated';
+import { runOnUI } from 'react-native-reanimated3';
 import React from 'react';
 
 export default function LogExample() {

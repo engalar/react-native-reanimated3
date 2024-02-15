@@ -3,7 +3,7 @@ import Animated, {
   useAnimatedStyle,
   withSpring,
   withClamp,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import { View, Text, Button, StyleSheet, ViewStyle } from 'react-native';
 import React, { useState } from 'react';
 

@@ -4,7 +4,7 @@ import Animated, {
   Extrapolation,
   interpolate,
   useAnimatedStyle,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 
 function PaginationElement({
   position,

@@ -11,7 +11,7 @@ import Animated, {
   Layout,
   LightSpeedInLeft,
   LightSpeedOutRight,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 
 interface EventParticipant {
   name: string;

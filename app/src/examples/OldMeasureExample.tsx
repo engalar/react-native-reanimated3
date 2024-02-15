@@ -10,8 +10,8 @@ import Animated, {
   Easing,
   useDerivedValue,
   useAnimatedRef,
-} from 'react-native-reanimated';
-import type { AnimatedRef } from 'react-native-reanimated';
+} from 'react-native-reanimated3';
+import type { AnimatedRef } from 'react-native-reanimated3';
 import {
   TapGestureHandler,
   TapGestureHandlerGestureEvent,

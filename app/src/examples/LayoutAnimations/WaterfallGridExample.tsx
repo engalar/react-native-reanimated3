@@ -10,7 +10,7 @@ import Animated, {
   PinwheelOut,
   SequencedTransition,
   combineTransition,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import { Image, LayoutChangeEvent, Text, View, StyleSheet } from 'react-native';
 import React, { useCallback, useEffect, useMemo, useState } from 'react';
 import { ScrollView, TapGestureHandler } from 'react-native-gesture-handler';

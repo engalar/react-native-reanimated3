@@ -4,7 +4,7 @@ import Animated, {
   withDelay,
   withSequence,
   withTiming,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import { Button, StyleSheet, Text, View } from 'react-native';
 import React, { useMemo, useState } from 'react';
 

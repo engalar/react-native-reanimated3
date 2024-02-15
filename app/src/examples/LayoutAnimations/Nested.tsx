@@ -1,4 +1,4 @@
-import Animated, { FadeOut } from 'react-native-reanimated';
+import Animated, { FadeOut } from 'react-native-reanimated3';
 import { Button, View, StyleSheet } from 'react-native';
 import React, { useState } from 'react';
 

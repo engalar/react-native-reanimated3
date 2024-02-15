@@ -5,7 +5,7 @@ import {
   runOnUI,
   useDerivedValue,
   useSharedValue,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 
 export default function ModifyExample() {
   const sv = useSharedValue([1]);

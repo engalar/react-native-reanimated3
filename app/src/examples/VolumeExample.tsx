@@ -5,7 +5,7 @@ import Animated, {
   SensorType,
   useFrameCallback,
   useAnimatedStyle,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import {
   View,
   StyleSheet,

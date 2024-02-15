@@ -2,7 +2,7 @@ import Animated, {
   SharedValue,
   useAnimatedProps,
   useDerivedValue,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import { Dimensions, StyleSheet } from 'react-native';
 import Svg, { Path } from 'react-native-svg';
 import {

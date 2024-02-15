@@ -4,7 +4,7 @@ import Animated, {
   useAnimatedRef,
   useAnimatedStyle,
   useSharedValue,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import { Button, StyleSheet, Text, View } from 'react-native';
 
 export default function ScrollViewOffsetExample() {

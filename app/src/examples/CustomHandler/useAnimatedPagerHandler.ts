@@ -4,8 +4,8 @@ import {
   PagerViewOnPageScrollEvent,
   PagerViewOnPageSelectedEvent,
 } from 'react-native-pager-view';
-import { useEvent, useHandler } from 'react-native-reanimated';
-import type { ReanimatedEvent } from 'react-native-reanimated';
+import { useEvent, useHandler } from 'react-native-reanimated3';
+import type { ReanimatedEvent } from 'react-native-reanimated3';
 
 export function useAnimatedPagerScrollHandler<
   TContext extends Record<string, unknown>

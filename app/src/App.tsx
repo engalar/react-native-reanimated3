@@ -37,7 +37,7 @@ import {
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { EXAMPLES } from './examples';
 import React from 'react';
-import { useReducedMotion } from 'react-native-reanimated';
+import { useReducedMotion } from 'react-native-reanimated3';
 
 type RootStackParamList = { [P in keyof typeof EXAMPLES]: undefined } & {
   Home: undefined;

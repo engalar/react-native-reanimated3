@@ -5,7 +5,7 @@ import Animated, {
   withSpring,
   useAnimatedStyle,
   useAnimatedScrollHandler,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import { useHeaderHeight } from '@react-navigation/elements';
 
 const size = 40;

@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, Button, StyleSheet } from 'react-native';
-import { runOnUI } from 'react-native-reanimated';
+import { runOnUI } from 'react-native-reanimated3';
 
 function shortOffender() {
   'worklet';

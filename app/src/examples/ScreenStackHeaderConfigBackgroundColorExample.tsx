@@ -2,7 +2,7 @@ import Animated, {
   useAnimatedProps,
   useAnimatedStyle,
   useSharedValue,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import {
   Gesture,
   GestureDetector,

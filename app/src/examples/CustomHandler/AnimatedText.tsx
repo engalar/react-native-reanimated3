@@ -9,8 +9,8 @@ import {
 import Animated, {
   SharedValue,
   useAnimatedProps,
-} from 'react-native-reanimated';
-import type { AnimatedStyle } from 'react-native-reanimated';
+} from 'react-native-reanimated3';
+import type { AnimatedStyle } from 'react-native-reanimated3';
 
 Animated.addWhitelistedNativeProps({ text: true });
 

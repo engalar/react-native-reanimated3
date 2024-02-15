@@ -4,7 +4,7 @@ import Animated, {
   SharedValue,
   useDerivedValue,
   useSharedValue,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 import PagerView, { PageScrollState } from 'react-native-pager-view';
 
 import { AnimatedText } from './AnimatedText';

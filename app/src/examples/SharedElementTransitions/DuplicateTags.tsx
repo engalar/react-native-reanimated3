@@ -5,7 +5,7 @@ import {
 } from '@react-navigation/native-stack';
 import * as React from 'react';
 import { StyleSheet, TouchableNativeFeedback, View, Text } from 'react-native';
-import Animated, { useAnimatedStyle } from 'react-native-reanimated';
+import Animated, { useAnimatedStyle } from 'react-native-reanimated3';
 
 const firstPhoto = require('./assets/doge.jpg');
 const secondPhoto = require('./assets/angry-doge.jpg');

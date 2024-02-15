@@ -8,7 +8,7 @@ import Animated, {
   useSharedValue,
   withRepeat,
   withTiming,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated3';
 
 function createRandomArray(length: number) {
   return Array.from({ length }, () => Math.floor(Math.random() * 2));
